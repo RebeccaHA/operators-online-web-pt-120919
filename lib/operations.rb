@@ -11,7 +11,6 @@ end
 
 
 def not_safe?(speed)
-binding.pry	
 speed >60? true:false
 end
 	
